@@ -1,0 +1,46 @@
+{
+  "icons": [
+    {
+      "src": "/icon_1024x1024.d7fd4a71d6d296b04d1357b9e19f4de3.png",
+      "sizes": "1024x1024",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_512x512.19b9b3a76414c27fd9818f7c540d2800.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.997b11353135c0563e866b1082815320.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_256x256.4401c9af81c92afc6c6d9314fa965008.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.a6d4a43dc282b97005a291dfff27e4df.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.76df720bcd52f7fa34e1aeaf51c6e1aa.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.52543b8c63b89d19e2736b3c0224b943.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "ssr",
+  "short_name": "MyPWA",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "vue-ssr!",
+  "background_color": "#ffffff"
+}
